@@ -1,3 +1,5 @@
+use npm start or nodemon to start server at localhost:3005
+
 Students has:
     studentid (auto generated)
     studentname (name of student)
